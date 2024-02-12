@@ -6,7 +6,7 @@
 
 - 💻 I am Sagar,a computer science engineer.
 - 🎓 Graduating in 2024 form SBJITMR ,Nagpur(B.Tech)  
-- 📌 My current CGPA is 9.08
+- 📌 My current CGPA is 8.99
 - 💞 Interests : Playing Cricket,Listening songs
 
   
